@@ -1,0 +1,10 @@
+.bg-transparent {
+    background: linear-gradient( rgba(7, 7, 7, 0.8), rgba(0, 0, 0, 0.9) ), url(../img/header-bg.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron {
+    background: transparent;
+}
